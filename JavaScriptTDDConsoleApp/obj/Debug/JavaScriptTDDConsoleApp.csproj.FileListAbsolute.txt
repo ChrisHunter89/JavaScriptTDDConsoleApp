@@ -1,0 +1,2 @@
+c:\users\chris hunter\documents\visual studio 2015\Projects\JavaScriptTDDConsoleApp\JavaScriptTDDConsoleApp\bin\Debug\JavaScriptTDDConsoleApp.exe.config
+C:\GitHub\JavaScriptTDDConsoleApp\JavaScriptTDDConsoleApp\bin\Debug\JavaScriptTDDConsoleApp.exe.config
